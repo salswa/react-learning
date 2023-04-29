@@ -1,0 +1,31 @@
+{
+    "name": "react-learning",
+    "version": "1.0.0",
+    "description": "react learning code",
+
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salswa/react-learning.git"
+    },
+    "author": "swati",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/salswa/react-learning/issues"
+    },
+    "homepage": "https://github.com/salswa/react-learning#readme",
+    "devDependencies": {
+        "parcel": "^2.8.3",
+        "process": "^0.11.10"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "browserslist": [
+        "last 2 versions"
+    ]
+
+}
