@@ -17,4 +17,6 @@
     - HTTPs -> secured hosting
     - Tree Shaking -> applies this algorithm to remove unused code
     - Different dev and prod bundles -> creates even more optimized bundle for prod than that of dev
-    - 
+
+
+switched to develop branch
