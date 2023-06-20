@@ -1,6 +1,7 @@
 body {
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Alegreya Sans', sans-serif;
 }
 h3,h4,h5,h6 {
     margin: 5px 0;
@@ -47,6 +48,7 @@ h3,h4,h5,h6 {
     margin: 15px;
     background-color: #f3e4e3;
     padding: 10px;
+    border: 2px solid white;
 }
 
 .res-container .res-card:hover {
